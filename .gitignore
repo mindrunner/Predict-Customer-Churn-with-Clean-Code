@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+images/eda/*
+!images/eda/.keep
+images/results/*
+!images/results/.keep
+models/*
+!models/.keep
+logs/*
+!logs/.keep
+.idea/
